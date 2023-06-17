@@ -18,13 +18,16 @@
   
 #### :pencil2: Study log
 
-
-   May, 2023 [💻 introducewithmeㅤㅤㅤ](https://github.com/verdantjuly/codingwithme)
-    <img src="https://i.postimg.cc/m2MZxMpT/python-logo-only.png"> <img src="https://i.postimg.cc/fR98fWb2/2023-05-22-11-55-16.png">  
-   May, 2023 [📽️ moviechart ㅤㅤㅤㅤㅤㅤㅤ](https://github.com/verdantjuly/moviechart)
-    <img src="https://i.postimg.cc/fR98fWb2/2023-05-22-11-55-16.png">  
-   June, 2023 [📽️ zbase : moviechartㅤㅤㅤ](https://github.com/verdantjuly/zbase)
+June, 2023 [📽️ zbase : moviechartㅤㅤㅤ](https://github.com/verdantjuly/zbase)
    <img src="https://i.postimg.cc/fR98fWb2/2023-05-22-11-55-16.png"></p> 
+
+May, 2023 [📽️ moviechart ㅤㅤㅤㅤㅤㅤㅤ](https://github.com/verdantjuly/moviechart)
+    <img src="https://i.postimg.cc/fR98fWb2/2023-05-22-11-55-16.png">  
+
+May, 2023 [💻 introducewithmeㅤㅤㅤ](https://github.com/verdantjuly/codingwithme)
+    <img src="https://i.postimg.cc/m2MZxMpT/python-logo-only.png"> <img src="https://i.postimg.cc/fR98fWb2/2023-05-22-11-55-16.png">  
+   
+   
    
 
 </div>
