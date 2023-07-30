@@ -6,7 +6,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=mypage_temp,mypage,mypage_login,mypage_movies,mypage_fan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=mypage_temp,mypage,mypage_login,mypage_movies,mypage_fan,verdantjulycodingtest,spamall_socket)
 
 
 
