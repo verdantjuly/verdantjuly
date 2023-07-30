@@ -8,6 +8,10 @@
 
 <br>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=verdantjuly&theme=vue)](https://loosie.tistory.com/497)
+
+
+<br>
 <div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
