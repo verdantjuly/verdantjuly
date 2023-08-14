@@ -7,10 +7,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=verdantjuly&theme=vue&show_icons=true)
 
 <br>
-
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=verdantjuly&theme=vue)
-
-<br>
 <div align=center><h3>📚 STACKS</h3></div>
 
 <div align=center> 
