@@ -22,7 +22,6 @@
  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
   <br>
   
-  <img src="https://img.shields.io/badge/go-2ECCFA?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
   <br>
